@@ -21,8 +21,8 @@ This is a simple RESTful API for managing a collection of students. It is built 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/amro-alasri/RESTFul_API_with_Toranado_Framework.git
-   cd RESTFul_API_with_Toranado_Framework
+   git clone https://github.com/amro-alasri/RESTFul_API_with_Tornado_Framework.git
+   cd RESTFul_API_with_Tornado_Framework
    ```
 
 2. Install dependencies:
